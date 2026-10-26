@@ -1,24 +1,36 @@
-# AquaPriority
+# AquaPriority 💧
 
-A municipal water-repair prioritization system using budget and working-hour constraints.
+A smart municipal water-repair prioritization system that helps prioritize repair jobs under budget and working-hour constraints.
 
-## Features
-- Repair dashboard and registry
-- Budget-constrained optimization
-- Emergency classification and deferred-job reasons
-- Analytics and CSV/JSON export
-- LocalStorage persistence
+## 🚀 Live Demo
 
-## Tech Stack
-React, TypeScript, Vite, Tailwind CSS, Recharts
+**[Visit AquaPriority](https://aquapriority-1.vercel.app/)**
 
-## Run Locally
+## ✨ Features
+- Interactive dashboard and repair registry
+- Budget- and working-hour-constrained optimization
+- Emergency classification and transparent prioritization
+- Deferred-repair explanations
+- Analytics and data visualizations
+- CSV and JSON export
+- LocalStorage-based persistence
+
+## 🛠️ Tech Stack
+React · TypeScript · Vite · Tailwind CSS · Recharts
+
+## 💻 Run Locally
+
+```bash
 npm install
 npm run dev
+```
 
-## Tests and Build
+## 🧪 Tests and Build
+
+```bash
 npm test
 npm run build
+```
 
-## Data Notice
-All municipality and repair records are fictional demo data. Results are estimates, not verified real-world outcomes.
+## ⚠️ Data Disclaimer
+The municipality and repair records are fictional demo data. Optimization results are estimates and are not verified real-world outcomes.
